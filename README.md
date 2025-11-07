@@ -1,2 +1,2 @@
-# activity-tracker
-Activity Tracker - трекер активності та води
+# Activity Tracker - Трекер активності та води
+
